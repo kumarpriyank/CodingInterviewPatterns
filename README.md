@@ -1,1 +1,1 @@
-# CodingInterviewPatterns
+# Coding Interview Patterns
